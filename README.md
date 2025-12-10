@@ -1,6 +1,8 @@
-# Weather Forecasting Dashboard
+# Weather Forecasting Dashboard (Screenshot)
 
 A fully responsive weather dashboard built with React, Material UI, and OpenWeather API.
+## 📸 Screenshot
+![Application screenshot](./public/screenshotformywebsite.jepg)
 
 ## 🚀 Features
 - Real-time weather data
@@ -23,13 +25,15 @@ This project is deployed using Vercel.
 Push to GitHub → Vercel auto-deploys.
 
 ## 🌐 Live URL
-
+https://ben-weather-forecasting-app.vercel.app/
 
 ## 📁 Project Structure
 src/
-  components/
-  pages/
-  hooks/
-  utils/
+  api/
   assets/
+  components/
+  utils/
+  App.js/
+  index.css/
+  index.js/
 
