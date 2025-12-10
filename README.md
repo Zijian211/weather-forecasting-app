@@ -1,59 +1,35 @@
-![Application screenshot](./public/screenshot.png)
+# Weather Forecasting Dashboard
 
-<br/>
-<br/>
+A fully responsive weather dashboard built with React, Material UI, and OpenWeather API.
 
-With [The Weather Forecasting](https://the-weather-forecasting.netlify.app) user can search locations by city name and observe the weather for the next 5-6 days and 3 hour interval.
-<br />
-The app is developed using React.js and material-UI.
+## 🚀 Features
+- Real-time weather data
+- Today hourly forecast
+- Weekly forecast
+- Dynamic icon matching system
+- Fully responsive UI
 
-<br/>
+## 📦 Installation
+npm install
 
-## 💻 Live Demo:
+## ▶️ Development
+npm run dev
 
-https://the-weather-forecasting.netlify.app
+## 🏗️ Build
+npm run build
 
-<br/>
+## 🚀 Deployment
+This project is deployed using Vercel.  
+Push to GitHub → Vercel auto-deploys.
 
-## ✨ Getting Started
+## 🌐 Live URL
 
-- Make sure you already have `Node.js` and `npm` installed in your system.
-- You need an API key from [OpenWeatherMap](https://openweathermap.org/). After creating an account, [grab your key](https://home.openweathermap.org/api_keys).
-- Then, under the `src` directory, go to `api/OpenWeatherService` and replace `WEATHER_API_KEY` with your OpenWeatherMap API Key.
-  - **`api/OpenWeatherService.js`**: It contains the code related to the back-end of the application.
 
-<br/>
+## 📁 Project Structure
+src/
+  components/
+  pages/
+  hooks/
+  utils/
+  assets/
 
-## ⚡ Install
-
-- Clone the repository:
-
-```bash
-git clone https://github.com/Amin-Awinti/the-weather-forecasting.git
-
-```
-
-- Install the packages using the command `npm install`
-
-<br/>
-
-## 📙 Used libraries
-
-- `react-js`
-- `material-ui`
-
-Check `packages.json` for details
-
-<br/>
-
-## 📄 Todos
-
-- [ ] Styled-components
-- [ ] Convert the entire project to TypeScript
-- [ ] Unit Testing
-- [ ] On launch, find user location weather by utilizing GeolocationAPI/GEOCODING
-- [ ] Celcius/Fahrenheit conversion
-- [ ] Dark/Light Mode
-
-<br/>
-Thank You ☺
