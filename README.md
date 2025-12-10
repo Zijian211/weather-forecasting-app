@@ -2,7 +2,7 @@
 
 A fully responsive weather dashboard built with React, Material UI, and OpenWeather API.
 ## 📸 Screenshot
-![Application screenshot](./public/screenshotformywebsite.jepg)
+![Application screenshot](./public/screenshotformywebsite.jpeg)
 
 ## 🚀 Features
 - Real-time weather data
